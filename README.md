@@ -17,7 +17,7 @@ believes it only with a valid signature by the Tin Hat release key. It downloads
 release of that version and installs it only when the APK is signed with the same certificate as the Tin Hat already
 on the phone. The first update asks once to allow Tin Hat to install apps.
 
-Coming from 0.2.3 or earlier: install 0.2.4 by hand once; it updates itself from then on.
+Coming from 0.2.3 or earlier: install 0.2.4 or later by hand once; it updates itself from then on.
 
 ## Check a download
 - The APK's signing certificate (SHA-256):
